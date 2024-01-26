@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7b45be72bd8b7343a0e92bdfcf905b9, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  infos:
+    name: 
+    spriteIcon: {fileID: 0}
+    tooltipIngame: []
+    tooltipIcon: []
+  resources:
+    populationCost: 0
+    moneyCost: 0
+    foodCost: 0
+    toolCost: 0
+    dreamCost: 0
+    populationIncome: 0
+    moneyIncome: 0
+    foodIncome: 0
+    toolIncome: 0
+    dreamIncome: 0
+    populationMax: 0
+    moneyMax: 0
+    foodMax: 0
+    toolMax: 0
+    dreamMax: 0
+    populationUsed: 0
